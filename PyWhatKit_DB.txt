@@ -1,0 +1,45 @@
+Date: 20/4/2023
+Time: 11:5
+Phone Number: +918368578725
+Message: Vehicle 10 has crossed the count line!
+--------------------
+Date: 20/4/2023
+Time: 11:6
+Phone Number: +918368578725
+Message: Vehicle 10 has crossed the count line!
+--------------------
+Date: 20/4/2023
+Time: 11:8
+Phone Number: +918368578725
+Message: Vehicle 10 has crossed the count line!
+--------------------
+Date: 6/12/2023
+Time: 2:51
+Phone Number: +918368578725
+Message: Vehicle 10 has crossed the count line!
+--------------------
+Date: 6/12/2023
+Time: 2:54
+Phone Number: +91885110034
+Message: Vehicle 50 has crossed the count line!
+--------------------
+Date: 6/12/2023
+Time: 2:56
+Phone Number: +918851100534
+Message: Vehicle 10 has crossed the count line!
+--------------------
+Date: 6/12/2023
+Time: 3:21
+Phone Number: +918851100534
+Message: Vehicle 35 has crossed the count line!
+--------------------
+Date: 6/12/2023
+Time: 3:25
+Phone Number: +918851100534
+Message: Vehicle 35 has crossed the count line!
+--------------------
+Date: 24/7/2024
+Time: 16:10
+Phone Number: +918851100534
+Message: Vehicle 35 has crossed the count line!
+--------------------
